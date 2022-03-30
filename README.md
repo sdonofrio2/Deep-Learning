@@ -1,4 +1,4 @@
-# Homework-14-Deep-Learning
+# Deep-Learning
 
 Which model has a lower loss?
 - The model in the "closing" file has a lower loss.
